@@ -1,118 +1,118 @@
 <h1 align="center">Wilson Martins da Silva 👋</h1>
 
 <p align="center">
-  🧠 Software Architect | .NET Engineer <br>
-  🚀 Scalable Systems • Distributed Architecture • Observability <br>
-  🥋 Founder @ CT GARAGEM
+  🧠 Arquiteto de Software | Engenheiro .NET <br>
+  🚀 Sistemas Escaláveis • Arquitetura Distribuída • Observabilidade <br>
+  🥋 Fundador do CT GARAGEM
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems;Microservices+%7C+CQRS+%7C+Outbox;High+Performance+.NET+Applications;Architecture+Driven+by+Business+Value" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=800&lines=Construindo+Sistemas+Escaláveis;CQRS+%7C+Outbox+%7C+Microservices;APIs+.NET+de+Alta+Performance;Arquitetura+Orientada+a+Valor+de+Negócio" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Sobre Mim
 
-Software Engineer specialized in the .NET ecosystem, focused on designing scalable, resilient and business-driven systems.
+Engenheiro de Software especializado no ecossistema **.NET**, com forte foco em arquitetura, escalabilidade e geração de valor para o negócio.
 
-I don’t just build software — I design solutions that generate measurable impact.
+Não construo apenas sistemas que funcionam —  
+projeto soluções resilientes, performáticas e preparadas para crescer.
 
-- 💻 Strong background in Backend Engineering
-- 🧱 Architecture-first mindset
-- 📦 Experience with distributed systems & async processing
-- 📊 Observability & production monitoring
-- 🥋 Founder of CT GARAGEM (Social Sports Project since 2016)
+- 💻 Forte atuação em Backend
+- 🧱 Mentalidade orientada à Arquitetura
+- 📦 Sistemas distribuídos e processamento assíncrono
+- 📊 Monitoramento e observabilidade em produção
+- 🥋 Fundador do CT GARAGEM (Projeto Social desde 2016)
 
 ---
 
-# 🧰 Technical Stack
+# 🧰 Stack Técnica
 
 ## 💻 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,csharp" />
 </p>
 
-- ASP.NET Core  
-- Minimal APIs  
-- Clean Architecture  
-- CQRS / CQS  
-- Outbox Pattern  
-- Background Services  
+- ASP.NET Core
+- Minimal APIs
+- Clean Architecture
+- CQRS / CQS
+- Outbox Pattern
+- Background Services
 
 ---
 
-## 🗄 Databases
+## 🗄 Bancos de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-- SQL Server (Write Model / Transactional Systems)
+- SQL Server (Sistemas Transacionais)
 - PostgreSQL
-- MySQL (Read Models)
-- Database segregation (Read/Write separation)
-- Query optimization & performance tuning
+- MySQL (Modelos de Leitura)
+- Separação Read/Write
+- Otimização de consultas
 
 ---
 
-## 🔄 Messaging & Distributed Systems
+## 🔄 Mensageria e Sistemas Distribuídos
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,redis" />
 </p>
 
 - RabbitMQ
-- Async processing
-- Event-driven architecture
-- Cache strategies with Redis
+- Arquitetura orientada a eventos
+- Processamento assíncrono
+- Cache com Redis
 
 ---
 
-## 🐳 DevOps & Tools
+## 🐳 DevOps & Monitoramento
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
 - Docker & Docker Compose
-- Version Control & Git Flow
-- CI/CD ready environments
-- Structured logging
-- Monitoring with Grafana & Prometheus
+- Versionamento com Git
+- Logs estruturados
+- Monitoramento com Grafana e Prometheus
+- Ambientes resilientes
 
 ---
 
-# 🧱 Architecture Focus
+# 🧱 Foco em Arquitetura
 
-- Microservices Architecture
-- Event-Driven Systems
-- High Availability Systems
-- Background Workers
-- Performance Optimization
-- Resilient Integrations
-- Fault Tolerance Design
+- Microservices
+- Sistemas de Alta Disponibilidade
+- Tolerância a falhas
+- Performance e Escalabilidade
+- Workers e Processamentos em Segundo Plano
+- Integrações robustas
 
 ---
 
-# 📌 Highlight Projects
+# 📌 Projetos em Destaque
 
 ### 🔹 UserManagement
-REST API built with ASP.NET Core, PostgreSQL, Dapper and CQS pattern.
+API REST em ASP.NET Core com PostgreSQL, Dapper e padrão CQS.
 
 ### 🔹 people-cqrs-outbox
-Complete practical example of:
+Implementação prática de:
 - CQRS
-- Transactional Outbox
-- SQL Server (Write DB)
-- MySQL (Read DB)
+- Outbox Transacional
+- SQL Server (Write)
+- MySQL (Read)
 - Docker Compose
-- Background processing
+- Processamento em background
 
 ### 🔹 API_FEIRA
-C# API focused on structured data processing.
+API em C# focada em processamento estruturado de dados.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wilsonmarrtins&show_icons=true&theme=dark&hide_border=true" />
@@ -121,18 +121,18 @@ C# API focused on structured data processing.
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🧠 Filosofia de Engenharia
 
-> "Technology must generate value, not just function."
+> "Tecnologia deve gerar valor, não apenas funcionar."
 
-- Code with purpose  
-- Architecture with long-term vision  
-- Systems designed for scalability  
-- Leadership through technical excellence  
+- Código com propósito  
+- Arquitetura com visão de longo prazo  
+- Sistemas preparados para crescer  
+- Liderança através da excelência técnica  
 
 ---
 
-# 🌎 Connect with Me
+# 🌎 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilsonmartinsdasilva/">
