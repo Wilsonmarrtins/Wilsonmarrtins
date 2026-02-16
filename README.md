@@ -1,4 +1,4 @@
-<h1 align="center">Wilson Martins da Silva 👋</h1>
+<h1 align="center">Wilson Martins da Silva</h1>
 
 <p align="center">
   🧠 Arquiteto de Software | Engenheiro .NET <br>
